@@ -12,7 +12,7 @@ Then you should run bellow commands to setup a conda environment:
 ~ cd machine-learning-notebook
 ~ conda env create -f environment.yml 
 ~ conda activate machine-learning-notebook
-~ jupyter lab
+~ ./run.sh
 ```
 
 ## Basic package learning
