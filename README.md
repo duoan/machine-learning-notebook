@@ -1,4 +1,4 @@
-machine learning notebook
+Machine Learning Notebook
 =========================
 
 This repository is tracking basic review from data analysis to advantage machine learning skills.
@@ -16,6 +16,7 @@ Then you should run bellow commands to setup a conda environment:
 ```
 
 ## Basic package learning
-### numpy for linear algebra
-### pandas
+
+- [numpy for linear algebra](./01.numpy)
+- [pandas](./02.pandas)
 
